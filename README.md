@@ -1,8 +1,8 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Masum Khan</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+Heya! I'm Masum Khan, a student currently living in Dhaka, Bangladesh. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
@@ -17,20 +17,19 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class Mkhaninfo():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Masum Khan";
+    self.username = "Masum Khan";
+    self.location = "Dhaka, Bangladesh";
+   
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = Mkhaninfo()
 ```
 
 <div align="center">
@@ -58,7 +57,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Masum Khan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ------
 
