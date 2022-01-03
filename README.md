@@ -58,7 +58,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Masum Khan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mkhaninfo&custom_title=%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Mkhaninfo.dev)
+[![Masum Khan' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mkhaninfo&custom_title=%20Masum Khan's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Mkhaninfo.dev)
 
 
 
