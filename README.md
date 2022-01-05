@@ -2,7 +2,7 @@
   <b>Masum Khan</b>
 </h1>
 
-Heya! I'm Masum Khan, a student currently living in Dhaka, Bangladesh. I'm preparing for 
+Hi! I'm Masum Khan, a student currently living in Dhaka, Bangladesh. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
@@ -71,7 +71,9 @@ if __name__ == '__main__':
 </div>
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhaninfo)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/Mkhaninfo)
 
 
 
